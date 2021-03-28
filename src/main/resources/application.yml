@@ -1,0 +1,9 @@
+
+validation:
+  maxPageCount : 1000
+  errorMessage : "Book's page count is exceeding allowed limit : ${validation.maxPageCount}"
+
+publisher:
+  address: "D&R"
+  taxNumber: 123123123
+  website: "https://www.dr.com.tr/"
